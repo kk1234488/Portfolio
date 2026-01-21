@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { PROFILE } from "../constants";
-import karan from "../assets/Karan.jpg"
+import karan from "../assets/user.png"
 import { RiArrowRightUpLine } from "@remixicon/react";
 
 const Hero = () => {

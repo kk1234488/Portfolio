@@ -71,7 +71,7 @@ export const PROJECTS = [
     id: 5,
     title: "Real-Time Chat App",
     description:
-      "•	I have built this Real-Time Chat App with clean and minimalist design. Using SupaBase for interacting with Logged in user also with Google Auth",
+      "I have built this Real-Time Chat App with clean and minimalist design. Using SupaBase for interacting with Logged in user also with Google Auth",
     techStack: ["React", "SupaBase", ],
     imgSrc: project5,
     link: "https://real-time-chat-app-liard-eight.vercel.app/",
